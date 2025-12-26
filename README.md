@@ -1,7 +1,7 @@
 # 📊 Product Sales Analysis — Power BI
 
 ## 🖼️ Dashboard Preview
-![Power BI Sales Dashboard](https://your-image-link-here)
+![Power BI Sales Dashboard](https://github.com/Subham-Adhikari/electronics-sales-analysis-dashboard/blob/main/Datasets_%26_dashboard_image/dashboard_image_.png)
 
 ## 🧾 Project Overview
 This project is an interactive **Power BI dashboard** built using **Power Query and DAX** to analyze product sales performance, revenue contribution, product categories, and monthly demand trends.
